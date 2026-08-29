@@ -52,5 +52,5 @@ class RenderContext:
             grid_color=(22, 27, 34),
             enemy_colors={1: (0, 109, 50), 2: (38, 166, 65), 3: (57, 211, 83), 4: (87, 242, 135)},
             ship_color=(68, 147, 248),
-            bullet_color=(255, 223, 0),
+            bullet_color=(216, 180, 254),
         )
