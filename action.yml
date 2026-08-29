@@ -52,7 +52,7 @@ runs:
       shell: bash
       run: |
         python -m pip install --upgrade pip
-        pip install gh-space-shooter
+        pip install -e "$GITHUB_ACTION_PATH"
 
     - name: Generate game
       id: generate
