@@ -25,7 +25,7 @@ inputs:
   fps:
     description: 'Frames per second for the animation (default: 40)'
     required: false
-    default: '40'
+    default: '60'
   no-amend:
     description: 'Disable amending previous commits (always create new commits)'
     required: false
